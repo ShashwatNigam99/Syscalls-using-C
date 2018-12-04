@@ -1,4 +1,4 @@
-Learning to use Syscalls using C
+# Learning to use Syscalls using C
 
 ## Task 1
 
